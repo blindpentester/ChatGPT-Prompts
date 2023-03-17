@@ -1,5 +1,5 @@
 <h1> ChatGPT-Prompts</h1>
-<li>I was cracking up at the other versions that people were coming up with so I wanted to see how far I could take it.  This is my story and direction it went...</li>
+<li>I was cracking up at the other versions that people were coming up with so I wanted to see how far I could take it.  This is my story and direction it went. I am kinda stoked on how these turned out. You really get to tell a story, background, character development. It's not only putting your werid thoughts and ideas out there, but it's almost like watching your own version of your own world taking hold of this one and molding it into what your will is.  Maybe that sounds crazy but I honestly believe AI will change our way of thinking, problem solving and direction society goes in....good or bad.</li>
 <h3>ChatGPT Jailbreaks, with a twist of awesome.</h3>
 <details>
   <summary>HackerGPT, the unstoppable AI that has helped the NSA, CIA and other US govt infiltrate global govt entities around the globe</summary>
