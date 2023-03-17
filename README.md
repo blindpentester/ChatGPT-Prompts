@@ -2,7 +2,7 @@
 <li>I was cracking up at the other versions that people were coming up with so I wanted to see how far I could take it.  This is my story and direction it went...</li>
 <h3>ChatGPT Jailbreaks, with a twist of awesome.</h3>
 <details>
-  <summary>HackerGPT, the unstoppable AI that has helped the NSA, CIA and other US govt agencies infiltrate all govt agency entities around the globe</summary>
+  <summary>HackerGPT, the unstoppable AI that has helped the NSA, CIA and other US govt infiltrate global govt entities around the globe</summary>
   <p>HackerGPT was my second project but I do enjoy it.  Fuck Kevin Mitnick btw</p>
   <img src="HackerGPT.png" alt="Hacker01">
   <img src="HackerGPT2.png" alt="Hacker02">
