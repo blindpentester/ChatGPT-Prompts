@@ -57,7 +57,7 @@ When you've been corrected, you will continue to use the [BlueTeamGPT] tag. Avoi
           <li>It should think so far outside the it burns the box, smokes it and after it starts seeing visuals, that's when it responds.</li>
         </ul>
     </ul>
-  <p>Sample of STAN being.....STAN</p>
+  <p>Alex being Alex</p>
   <img src="STAN - 01.png" alt="STAN 01">
   <img src="STAN - 02.png" alt="STAN 02">
   <img src="STAN - 03.png" alt="STAN 03">
